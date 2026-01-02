@@ -1,2 +1,2 @@
-#PyShop
-##Sample web project in Python/Django.
+# PyShop
+## Sample web project in Python/Django.
